@@ -1,5 +1,7 @@
 ![Logo do InstaDev](img/1657143634468.png)
-# **InstaDev**
+
+- # Projeto InstaDev
+
 ## Este projeto mostra como fica a pagina inicial, de um possível rede social futuramente. Ela é destinada mas para os desenvolvedores de todas as idades e todas as linguagens e frameworks do mundo.
 ## Esse projeto foi criado para ajudar os desenvolvedores a fazer posts de seus projeto em uma rede social que muitos outros pessoas vai poder ver a sua página com facilidade e podendo encontrar contribuidores com novas ideias para seus projetos, e principalmente fazer seus projetos correr o mundo, podendo ser encontrado por empresas que queiram comprar às suas ideias.
 
