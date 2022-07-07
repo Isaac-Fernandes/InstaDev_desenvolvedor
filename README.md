@@ -1,7 +1,7 @@
 ![Logo do InstaDev](img/1657143634468.png)
 # **InstaDev**
 ## Este projeto mostra como fica a pagina inicial, de um possível rede social futuramente. Ela é destinada mas para os desenvolvedores de todas as idades e todas as linguagens e frameworks do mundo.
-## Hoje em dia existe o "GitHub" que muitos desenvolvedores usa para mostrar seus projetos. 
+## Esse projeto foi criado para ajudar os desenvolvedores a fazer posts de seus projeto em uma rede social que muitos outros pessoas vai poder ver a sua página com facilidade e podendo encontrar contribuidores com novas ideias para seus projetos, e principalmente fazer seus projetos correr o mundo, podendo ser encontrado por empresas que queiram comprar às suas ideias.
 
 # Tecnologias Usadas
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7HwVz9h18DrB8OeLJ1oUyWw6JPIBqfxDUEiFi_804PEIQxzvfuW5p0eQ3inRMifes4s&usqp=CAU" width="70"><img src="https://www.programandoamedianoche.com/wp-content/uploads/2018/10/Post-Flexbox.jpg" width="100">
