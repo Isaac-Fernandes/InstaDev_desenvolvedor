@@ -1,0 +1,170 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif ;
+    font-size: 14px;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(0, 0, 0); /*Aqui pode mudar a cor de fundo */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.instadev-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 60%;
+    height: 100vh;
+}
+
+.instadev-phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.instadev-phone img {
+    height: 50rem;
+}
+
+.instadev-continue {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff; /*Muda a cor dos containers*/
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid rgb(235, 9, 9); /*Muda a cor da borda dos containers */
+}
+
+.group:nth-child(1) {
+    min-height: 19rem;
+}
+
+.instadev-logo {
+    height: 3rem;
+}
+
+.profile-photo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profile-photo img{
+    height: 6rem;
+}
+
+.instadev-login {
+    background-color: #f70909;/*Muda a cor do containers onde fica "continuar com Isaac-Fernandes"*/
+    color: #050505; /*Muda a cor da letra*/
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.instadev-logout {
+    color: #000000;/*Muda a cor da frase "remover conta"*/
+    margin-top: 1rem;
+}
+
+.not-account {
+    color: rgb(17, 16, 16);/*Muda a cor das palavras "Não é Isaac-Fernandes" e "ou" */
+}
+
+.link-blue{
+    color: #0095f6;/*Muda cor dos links*/
+}
+
+.get-the-app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+    color: red /*Muda a cor da frase "Baixe o aplicativo"*/
+}
+
+.dowload {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
+
+.app-download {
+    height: 3rem;
+    width: 10rem;
+    background-size: cover;
+}
+
+.app-download:nth-child(1)img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto
+
+}
+
+.app-download:nth-child(2)img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto
+}
+
+@media (max-width: 1024px) {
+    .instadev-wrapper {
+        width:90%
+    }
+}
+
+@media (max-width: 650px) {
+    body {
+        background-color: #0c0c0c; /*Muda a cor de fundo na versão de celular*/
+    }
+
+    .instadev-wrapper{
+        width: 90%;
+    }
+
+    .instadev-phone{
+        display: none;
+    }
+
+    .instadev-continue{
+        width: 100%;
+    }
+
+    .group{
+        border: 1px solid transparent;
+    }
+}
+
+
+
+
+
+    
